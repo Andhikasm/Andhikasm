@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Data and AI professional.
+I am into data, analytics, and AI.
 
 ### 🎓 Education
 - MSc Business Analytics from Imperial College London (2021 - 2023)
